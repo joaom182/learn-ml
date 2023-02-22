@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "list_participants",
+      "input": ["participants"],
+      "responses": ["Ok, I'll list the participants for you"]
+    },
+    {
+      "tag": "list_studies",
+      "input": ["studies"],
+      "responses": ["Okay, I'll list the studies for you"]
+    }
+  ]
+}
